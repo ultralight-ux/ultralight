@@ -79,7 +79,7 @@ Portions of the library are open-source, here's how the library is laid out:
 |--------------------|-----------------------------------|-------------|--------------------------|
 | __UltralightCore__ | Low-level graphics renderer       | Proprietary | (Available with license) |
 | __WebCore__        | HTML layout engine (WebKit fork)  | LGPL/BSD    | [ultralight-ux/WebCore](https://github.com/ultralight-ux/WebCore) |
-| __Ultralight__     | View, compositor, and event logic | Proprietary | (Avaiable with license)  |
+| __Ultralight__     | View, compositor, and event logic | Proprietary | (Available with license)  |
 | __AppCore__        | Optional, desktop app runtime     | LGPL        | [ultralight-ux/AppCore](https://github.com/ultralight-ux/AppCore) |
 
 ## Dual High-Performance Renderers
